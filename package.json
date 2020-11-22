@@ -1,0 +1,28 @@
+{
+  "name": "hello-express",
+  "version": "1.0.0",
+  "description": "chimp#0110'in namı değer temiz altyapısı.",
+  "main": "chimp.js",
+  "scripts": {
+    "watch": "nodemon chimp.js",
+    "start": "node chimp.js"
+  },
+  "dependencies": {
+    "dctr-antispam.js": "^0.1.1",
+    "discord-logs": "^1.7.7",
+    "discord.js": "^12.3.1",
+    "fs": "0.0.1-security",
+    "moment": "^2.29.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "chimp",
+    "chimp#0110"
+  ],
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
